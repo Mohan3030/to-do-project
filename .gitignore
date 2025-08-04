@@ -1,0 +1,30 @@
+# === React Frontend ===
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
+/frontend/.DS_Store
+
+# === Spring Boot Backend ===
+/backend/target/
+/backend/.idea/
+/backend/.classpath
+/backend/.project
+/backend/.settings/
+/backend/*.iml
+
+# Logs and temporary files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Environment & database secrets
+.env
+*.env
+*.properties
+*.yml
